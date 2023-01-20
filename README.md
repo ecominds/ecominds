@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajiv
 - 👀 I’m interested in data analytics and machine learning
 - 🌱 currently learning Python, DevOps and Data science
-- 📫 You can reach me by drafting an email on rajiv3124@gmail.com 
+- 📫 You can reach me by drafting an email to rajiv3124@gmail.com 
 
 <!---
 - 💞️ I’m looking to collaborate on ...
